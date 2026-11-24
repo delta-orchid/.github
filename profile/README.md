@@ -1,12 +1,13 @@
-## Hi there 👋
+# Delta Orchid
 
-<!--
+**Making music creation, theory, and practice more accessible through open-source software, hardware integrations, and LLM tooling.**
 
-**Here are some ideas to get you started:**
+Music should not be locked behind steep software curves, expensive rigs, or years of unassisted theory memorization. Delta Orchid builds focused, open-source tools that lower the barrier between musical intent and actual sound: connecting large language models to deterministic theory engines, removing physical friction from recording and performance, and turning everyday hardware into practice instruments.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How We Lower the Barrier
+
+LLM-Native Music Tooling (MCP): Natural-language interfaces backed by deterministic music theory, chord-shape APIs, and live accompaniment engines. AI assistants can map voicings, reharmonize progressions, and generate print-ready chord sheets without hallucinating fingerings.
+
+Frictionless Capture & Performance: Tools built for flow rather than menu diving. Hands-free transient-triggered looping, pad-mapped scratching without turntables, and direct Ableton Push hardware integration.
+
+Portable, Zero-Bloat Engineering: Fast, self-contained tools written in Rust, TypeScript, C++, C, and Max for Live. Run them in a browser via WebAssembly, inside a DAW, on desktop, or on pocket hardware.
